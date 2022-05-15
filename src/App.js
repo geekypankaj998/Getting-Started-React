@@ -1,9 +1,11 @@
-// import './App.css'
+import React from "react";
+import CartItem from'./CartItem'
 
 function App() {
   return (
     <div className="App">
-      <h2>This is</h2>
+      <h2>Cart</h2>
+      <CartItem/> 
     </div>
   );
 }

@@ -12,6 +12,8 @@ code {
     monospace;
 }
 h2{
-  margin:auto;
+  margin:10px 50%;
   color:rgb(228, 92, 167);
+  font-size: 3rem;
 }
+
